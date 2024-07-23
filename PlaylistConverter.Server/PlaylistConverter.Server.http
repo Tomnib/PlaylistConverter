@@ -1,0 +1,6 @@
+@PlaylistConverter.Server_HostAddress = http://localhost:5122
+
+GET {{PlaylistConverter.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
